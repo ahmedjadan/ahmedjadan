@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahmedjadan-dev.vercel.app/projects](https://ahmedjadan-dev.vercel.app/projects)
 
-- 📝 I regularly write articles on [medjadan-dev.vercel.app](medjadan-dev.vercel.app)
+- 📝 I regularly write articles on [medjadan-dev.vercel.app](https://ahmedjadan-dev.vercel.app/blog)
 
 - 💬 Ask me about **reactjs, nextjs, javascript**
 
