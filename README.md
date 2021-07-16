@@ -31,6 +31,8 @@
 
 [![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedjadan&show_icons=true&hide_border=true&theme=radical)](https://github.com/ahmedjadan/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmedjadan&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 
 [twitter]: https://twitter.com/a7medjadan
