@@ -1,16 +1,21 @@
+<h1 align="center">Hi 👋, I'm Ahmed Ja'dan</h1>
+<h3 align="center">Self-driven, Frontend Developer | React Js, Next.js, JavaScript, Tailwind CSS</h3>
 
-<h3 align="center">A passionate frontend web developer from Yemen</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjadan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjadan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjadan" alt="ahmedjadan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/a7medjadan" target="blank"><img src="https://img.shields.io/twitter/follow/a7medjadan?logo=twitter&style=for-the-badge" alt="a7medjadan" /></a> </p>
 
 - 🔭 I’m currently working on [my personal website](medjadan-dev.vercel.app)
 
+- 🌱 I’m currently learning **GraphQl, ReactNative,**
+
 - 👨‍💻 All of my projects are available at [https://ahmedjadan-dev.vercel.app/projects](https://ahmedjadan-dev.vercel.app/projects)
 
 - 📝 I regularly write articles on [medjadan-dev.vercel.app](medjadan-dev.vercel.app)
 
-- 💬 Ask me about **react, nextjs, javascript**
+- 💬 Ask me about **reactjs, nextjs, javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,31 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedjadan&show_icons=true&locale=en&layout=compact" alt="ahmedjadan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedjadan&show_icons=true&locale=en" alt="ahmedjadan" /></p>
-
-
-
-
-
-
-
-
-
-<!-- ### Hi there, I'm Ahmed Ja'dan 👋
-
-
-## I'm a Husband, Father, Front-End web Developer.
-
-- 💻 Self-driven, front-end web developer.
-- ⚡ Portfolio is on the way. 
-
-
-[![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedjadan&show_icons=true&hide_border=true&theme=radical)](https://github.com/ahmedjadan/github-readme-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedjadan)
-
-<!-- 
-[twitter]: https://twitter.com/a7medjadan
-[corona dashboard]: https://corona-ar.vercel.app/
- -->
-
