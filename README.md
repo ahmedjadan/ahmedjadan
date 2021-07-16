@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjadan&label=Profile%20views&color=blueviolet&style=flat" alt="ahmedjadan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjadan" alt="ahmedjadan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjadan&theme=onedark" alt="ahmedjadan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/a7medjadan" target="blank"><img src="https://img.shields.io/twitter/follow/a7medjadan?logo=twitter&style=for-the-badge" alt="a7medjadan" /></a> </p>
 
