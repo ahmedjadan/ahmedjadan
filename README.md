@@ -1,5 +1,5 @@
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend web developer from Yemen</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjadan&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedjadan" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/a7medjadan" target="blank"><img src="https://img.shields.io/twitter/follow/a7medjadan?logo=twitter&style=for-the-badge" alt="a7medjadan" /></a> </p>
 
-- 🔭 I’m currently working on [my personal website](medjadan-dev.vercel.app)
+- 🔭 I’m currently working on [my personal website](https://ahmedjadan-dev.vercel.app)
 
 - 👨‍💻 All of my projects are available at [https://ahmedjadan-dev.vercel.app/projects](https://ahmedjadan-dev.vercel.app/projects)
 
@@ -57,4 +57,4 @@
 [twitter]: https://twitter.com/a7medjadan
 [corona dashboard]: https://corona-ar.vercel.app/
  -->
- -->
+
