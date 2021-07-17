@@ -12,16 +12,18 @@
 
 - 💬 Ask me about **reactjs, nextjs, javascript**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a7medjadan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a7medjadan" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjadan&label=Profile%20views&color=blueviolet&style=flat-square" alt="ahmedjadan" /> </p>
+</p> -->
+
+
 
 <!-- <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjadan&theme=onedark" alt="ahmedjadan" /></a> </p>
  -->
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjadan&label=Profile%20views&color=blueviolet&style=flat-square" alt="ahmedjadan" /> </p>
 <p align="left"> <a href="https://twitter.com/a7medjadan" target="blank"><img src="https://img.shields.io/twitter/follow/a7medjadan?logo=twitter&style=for-the-badge&color=blue" alt="a7medjadan" /></a> </p>
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
