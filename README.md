@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmed Ja'dan</h1>
-<h3 align="center">Self-driven, Frontend Developer | React Js, Next.js, JavaScript, Tailwind CSS</h3>
+<h1 align="left">Hi 👋, I'm Ahmed Ja'dan</h1>
+<h3 align="left">Self-driven, Frontend Developer | React Js, Next.js, JavaScript, Tailwind CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjadan&label=Profile%20views&color=blueviolet&style=flat-square" alt="ahmedjadan" /> </p>
 
