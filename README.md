@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedjadan&label=Profile%20views&color=blueviolet&style=flat-square" alt="ahmedjadan" /> </p>
 
-<p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjadan&theme=onedark" alt="ahmedjadan" /></a> </p>
-
+<!-- <p align="left"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=ahmedjadan&theme=onedark" alt="ahmedjadan" /></a> </p>
+ -->
 <p align="left"> <a href="https://twitter.com/a7medjadan" target="blank"><img src="https://img.shields.io/twitter/follow/a7medjadan?logo=twitter&style=for-the-badge&color=blue" alt="a7medjadan" /></a> </p>
 
 - 🔭 I’m currently working on [my personal website](https://ahmedjadan-dev.vercel.app)
