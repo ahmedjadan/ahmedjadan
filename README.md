@@ -8,8 +8,8 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://ahmedjadan-dev.vercel.app/projects](https://ahmedjadan-dev.vercel.app/projects) -->
 
-- 📝 I regularly write articles on [medjadan-dev.vercel.app](https://ahmedjadan-dev.vercel.app/blog)
-
+<!-- - 📝 I regularly write articles on [medjadan-dev.vercel.app](https://ahmedjadan-dev.vercel.app/blog)
+ -->
 - 💬 Ask me about **reactjs, nextjs, javascript**
 
 <!-- <h3 align="left">Connect with me:</h3>
