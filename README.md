@@ -2,11 +2,11 @@
 <h3 align="left">Self-driven, Frontend Developer | React Js, Next.js, JavaScript, Tailwind CSS</h3>
 
 
-- 🔭 I’m currently working on [my personal website](https://ahmedjadan-dev.vercel.app)
+- 🔭 I’m currently working on [Nextjs, Strapi, E-commerce small shop](https://eldokkan.vercel.app/)
 
 - 🌱 I’m currently learning **GraphQl, ReactNative,**
 
-- 👨‍💻 All of my projects are available at [https://ahmedjadan-dev.vercel.app/projects](https://ahmedjadan-dev.vercel.app/projects)
+<!-- - 👨‍💻 All of my projects are available at [https://ahmedjadan-dev.vercel.app/projects](https://ahmedjadan-dev.vercel.app/projects) -->
 
 - 📝 I regularly write articles on [medjadan-dev.vercel.app](https://ahmedjadan-dev.vercel.app/blog)
 
