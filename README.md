@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ahmed Ja'dan</h1>
-<h3 align="left">Self-driven, Frontend Developer | React Js, Next.js, JavaScript, tailwind CSS</h3>
+<h3 align="left">Self-driven, Frontend Developer | React Js, Next.js, JavaScript, tailwindcss</h3>
 
 
 - 🔭 I’m currently working on [Nextjs, Strapi, E-commerce small shop](https://eldokkan.vercel.app/)
