@@ -2,9 +2,9 @@
 <h3 align="left">Self-driven, Frontend Developer | React Js, Next.js, JavaScript, tailwindcss</h3>
 
 
-- 🔭 I’m currently working on [Nextjs, Strapi, E-commerce small shop](https://eldokkan.vercel.app/)
+- 🔭 I’m currently working on [Nextjs, Strapi, RealEstate ](https://github.com/ahmedjadan/next-real-estate)
 
-- 🌱 I’m currently learning **GraphQl, ReactNative,**
+- 🌱 I’m currently learning **Prisma**
 
 <!-- - 👨‍💻 All of my projects are available at [https://ahmedjadan-dev.vercel.app/projects](https://ahmedjadan-dev.vercel.app/projects) -->
 
